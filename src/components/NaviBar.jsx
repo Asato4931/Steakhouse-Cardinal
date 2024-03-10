@@ -29,7 +29,7 @@ export default function NaviBar() {
   return (
     <Navbar className={scrolled ? "scrolled" : ""}>
       <div class="container">
-        <Navbar.Brand href="home">
+        <Navbar.Brand href="#home">
           <img src={logo} className="navbarlogo" />
         </Navbar.Brand>
         <Navbar.Collapse id="basic-navbar-nav">

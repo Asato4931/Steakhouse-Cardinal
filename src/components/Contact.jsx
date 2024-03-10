@@ -48,7 +48,7 @@ export default function Contact() {
                 </Col>
                 <Col md={6} className="px-1 form-boxes">
                   <textarea placeholder="ご要望" />
-                  <button type="submit">
+                  <button type="button">
                     <span>送信</span>
                   </button>
                 </Col>
